@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BUTFIRE\\CadastroSeriesDotNET-DIO\\CadastroSeriesDotNET-DIO.csproj": {}
+    "C:\\Users\\BUTFIRE\\CadastroSeriesDotNET-DIO\\DIO.Series.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BUTFIRE\\CadastroSeriesDotNET-DIO\\CadastroSeriesDotNET-DIO.csproj": {
+    "C:\\Users\\BUTFIRE\\CadastroSeriesDotNET-DIO\\DIO.Series.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BUTFIRE\\CadastroSeriesDotNET-DIO\\CadastroSeriesDotNET-DIO.csproj",
-        "projectName": "CadastroSeriesDotNET-DIO",
-        "projectPath": "C:\\Users\\BUTFIRE\\CadastroSeriesDotNET-DIO\\CadastroSeriesDotNET-DIO.csproj",
+        "projectUniqueName": "C:\\Users\\BUTFIRE\\CadastroSeriesDotNET-DIO\\DIO.Series.csproj",
+        "projectName": "DIO.Series",
+        "projectPath": "C:\\Users\\BUTFIRE\\CadastroSeriesDotNET-DIO\\DIO.Series.csproj",
         "packagesPath": "C:\\Users\\BUTFIRE\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\BUTFIRE\\CadastroSeriesDotNET-DIO\\obj\\",
         "projectStyle": "PackageReference",
@@ -18,15 +18,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
