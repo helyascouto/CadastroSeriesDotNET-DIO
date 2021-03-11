@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rIXuf9StruPJf8cSEpX1ANtCN2WzOHi7GGbUz5e7Mi5eohoa1knD9pga9YRoEKnlwc9/B+gDZ24IXQeT6U6tMw==",
+  "dgSpecHash": "4Wv7Qsh6rNYuSTecpEw/8HeyZuLjlTW3ZWl8hZMTx2A34sCbD8NKg4rFkuZ/rhDRzFNh7avJOvljKU2rMSMJAg==",
   "success": true,
   "projectFilePath": "C:\\Users\\BUTFIRE\\CadastroSeriesDotNET-DIO\\DIO.Series.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\BUTFIRE\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }
